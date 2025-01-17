@@ -65,8 +65,13 @@ The dashboard analyzes critical performance metrics, including:
 
 ---
 
-## 📈 **How to Use This Repository**
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard.git>
+## 📈 How to Use This Repository
+
+View the project here: [Blinkit PowerBI Dashboard](https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard)
+
+If you'd like to clone the repository, use the following command:
+```bash
+git clone https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard.git
+
+
 
