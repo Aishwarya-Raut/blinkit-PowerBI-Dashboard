@@ -68,5 +68,5 @@ The dashboard analyzes critical performance metrics, including:
 ## 📈 **How to Use This Repository**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aishwarya-Raut/blinkit-delivery-analysis.git
+   git clone <gh repo clone Aishwarya-Raut/blinkit-PowerBI-Dashboard>
 
