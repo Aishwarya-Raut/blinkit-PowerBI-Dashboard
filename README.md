@@ -65,14 +65,6 @@ The dashboard analyzes critical performance metrics, including:
 
 ---
 
-## 📈 How to Use This Repository
-
-View the project here: [Blinkit PowerBI Dashboard](https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard)
-
-If you'd like to clone the repository, use the following command:
-```bash
-git clone https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard.git
-
 ---
 
 ## 🙌 Acknowledgments
@@ -80,6 +72,18 @@ git clone https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard.git
 A special thanks to the amazing **Data Tutorials YouTube tutorial** that guided the development of this project. 🎥✨
 
 ---
+
+
+## 📈 How to Use This Repository
+
+View the project here: [Blinkit PowerBI Dashboard](https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard)
+
+If you'd like to clone the repository, use the following command:
+
+```bash
+git clone https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard.git
+
+
 
 
 
