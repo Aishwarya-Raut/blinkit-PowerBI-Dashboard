@@ -73,5 +73,13 @@ If you'd like to clone the repository, use the following command:
 ```bash
 git clone https://github.com/Aishwarya-Raut/blinkit-PowerBI-Dashboard.git
 
+---
+
+## 🙌 Acknowledgments
+
+A special thanks to the amazing **Data Tutorials YouTube tutorial** that guided the development of this project. 🎥✨
+
+---
+
 
 
